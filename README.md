@@ -63,5 +63,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Tien Huynh MANIKANDAN-IT21
+  &copy; 2023 ManiKandan 
 </div>
