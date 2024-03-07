@@ -39,7 +39,7 @@
     <img align="center" alt="MANIKANDAN-IT21 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="www.linkedin.com/in/manikandan-k1" target="_blank">
+  <a href="https://www.linkedin.com/in/manikandan-k1/" target="_blank">
     <img align="center" alt="MANIKANDAN-IT21 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
